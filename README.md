@@ -7,3 +7,7 @@ The article also says that it is more likely for countries to open borders with 
 I tried to get a sense of Singapore's potential travel partners by comparing the active COVID-19 cases and trade volumes between Singapore and Singapore's trading partners. It seems like most of our potential partners will be in Asia.
 
 Please read report.pdf for full reports
+
+update 28-May:
+S'pore in talks to set up 'travel bubbles' with countries where Covid-19 is under control to allow essential travel, no leisure travel yet (ST news)
+https://www.straitstimes.com/singapore/transport/spore-in-talks-to-set-up-travel-bubbles-with-countries-where-covid-19-is-under
